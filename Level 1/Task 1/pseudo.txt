@@ -1,0 +1,34 @@
+"""An algorithm that asks a user to infinitely enter a positive number
+until the user enters a zero value, and then determines and outputs
+the largest of the inputted numbers."""
+
+
+
+
+request user input for a positive integer
+keep requesting number infinitely
+when the user input is equal to 0
+	find the max value of the inputted numbers
+	print out largest number.
+
+
+------------------------------------------------------------------------------------------
+
+
+
+"""An algorithm for the flowchart"""
+
+
+
+read in 2 values and assign them to X and Y respectively
+
+add the two values together
+store the added values in a variable named S
+
+divide the sum by 2 ie. half the sum
+store the division result in a variable named A
+
+find the product of the 2 values ie. X times Y
+store the product in a variable named P
+
+print out S, A, P

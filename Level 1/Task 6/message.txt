@@ -1,0 +1,6 @@
+Hi, thank you for the feedback.
+I have adjusted my spacing to 1 line between each block of code,
+and I have used a counter instead of a list. It seems to be running fine. 
+I hope everything is suitable.
+
+Thank you

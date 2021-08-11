@@ -1,0 +1,28 @@
+* Compulsory Task 1:
+
+a. Intent Classification
+b. Text Classification
+c. Sentiment Analysis
+
+
+* Compulsory Task 2:
+
+A model used in Pharmacy that is able to fully comprehend an illness or problem that a person
+is facing. The person will be able to fully describe what is wrong with them and the model will
+be able to recommend the appropriate medication and course of action. 
+The person will also be able to give feedback on how their medication is performing 
+and the model will be able to make the necessary adjustments based on the feedback.
+This will allow people to have access to constant help regarding their medication
+instead of a single visit to the pharmacy which is often a hit or miss.
+
+
+
+* Compulsory Task 3:
+
+Smart assistants like Siri or Alexa are able to effectively use voice recognition
+to notice patterns and then able to give you a response based on your needs at that time.
+These assistants can phone people for you, tell you jokes, play music, open specific apps, 
+and also perform all of your searches for you on the internet. 
+It can also be used to control your tv and other devices if connected to a wireless network.
+These 'assistants' are already so advanced in what they can do. 
+Over time it will start to become like an actual real life assistant.
